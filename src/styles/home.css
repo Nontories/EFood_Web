@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+    width: 80%;
+    margin:  0 auto;
+    justify-content: space-around;
+}
+
+.home_text{
+    width: 50%;
+    height: fit-content;
+    margin: auto 0;
+}
+
+.home_text h1{
+    font-size: 50px;
+}
+
+.home_text p{
+    line-height: 40px;
+}
+
+.home_picture{
+    width: 55%;
+}
+
+.home_picture img {
+    width: 100%;
+}

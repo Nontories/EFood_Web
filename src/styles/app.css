@@ -1,0 +1,58 @@
+.app{
+    display: flex;
+    width: 100%;
+    padding: 20px 0;
+    margin: 150px auto;
+    justify-content: space-around;
+    background-color: rgba(128, 180, 251, 0.2);
+}
+
+.app_content{
+    width: 50%;
+}
+
+.app_content_title{
+    color: #DC2626;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.app_content_header{
+    margin: 20px 0;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.app_content_text{
+    opacity: 0.7;
+}
+
+.app_content_button{
+    display: flex;
+    width: 80%;
+    margin: 20px 0;
+    justify-content: space-around;
+}
+
+.app_content_button div:hover{
+    cursor: pointer;
+}
+
+.app_image{ 
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    transform : translateX(-30px) translateY(15px);
+}
+
+.app_image img{
+    position: absolute;
+    width: 100%;
+}
+
+.app_image_iphone{
+    width: 86.5% !important;
+    transform: translateY(-13px);
+}

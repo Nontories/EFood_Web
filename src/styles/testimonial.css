@@ -1,0 +1,48 @@
+.testimonial{
+    width: 90%;
+    padding-bottom: 130px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.testimonial_title{
+    color: #0C4A6E;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.testimonial_header{
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.testimonial_image{
+    width: 150px;
+    margin: 0 auto;
+}
+
+.testimonial_image img{
+    width: 100%;
+}
+
+.testimonial_text{
+    width: 40%;
+    font-weight: 700;
+    margin: 0 auto;
+}
+
+.testimonial_star{
+    margin: 20px 0;
+}
+
+.testimonial_name{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.testimonial_position{
+    opacity: 0.7;
+    text-transform: uppercase;
+    margin: 5px 0;
+}

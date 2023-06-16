@@ -1,0 +1,46 @@
+.aboutUs{
+    display: flex;
+    width: 80%;
+    margin: 30px auto 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aboutUs_image{
+    width: 47%;
+}
+
+.aboutUs_image img{
+    width: 100%;
+}
+
+.aboutUs_content{
+    width: 47%;
+}
+
+.aboutUs_content_title{
+    color: #0C4A6E;
+    margin: 10px 0;
+    font-family: "Roboto";
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.aboutUs_content_header{
+    font-weight: 700;
+    font-size: 28px;
+    margin: 20px 0;
+}
+
+.aboutUs_content_text{
+    opacity: 0.7;
+}
+
+.aboutUs_content_button{
+    width: fit-content;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 15px;
+    margin: 50px 0;
+    background-color: #0C4A6E;
+}
