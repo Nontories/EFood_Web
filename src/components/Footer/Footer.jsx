@@ -34,19 +34,19 @@ const Footer = () => {
                 </div>
                 <div className="footer_location_text">Floor M, Victory Tower Building, 12 Tan Trao Street, Tan Phu Ward, District 7.</div>
                 <div className="footer_location_text">Referral Program</div>
-                <div className="footer_location_text">Phone: +7 485-118-03-25</div>
-                <a href="#" className="footer_location_text page_link">home@efood.com</a>
-                <div className="footer_location_text">www.e-food.com</div>
+                <div className="footer_location_text">Phone: +84 9162 244 76 </div>
+                <a href="https://e-food-web.vercel.app/" className="footer_location_text page_link">e-food-web</a>
+                <div className="footer_location_text">efoodcompanyservice@gmail.com</div>
             </div>
             <div className="footer_social">
                 <div className="footer_social_title footer_title">Social</div>
                 <div className="footer_social_link">
                     <img src={fbIcon} alt="" />
-                    <a href="#" className="footer_social_link_text footer_link">Facebook</a>
+                    <a href="https://www.facebook.com/profile.php?id=100092624092265" className="footer_social_link_text footer_link">Facebook</a>
                 </div>
                 <div className="footer_social_link">
                     <img src={insIcon} alt="" />
-                    <a href="#" className="footer_social_link_text footer_link">Instagram</a>
+                    <a href="https://instagram.com/e_food_2023?igshid=OGQ5ZDc2ODk2ZA==" className="footer_social_link_text footer_link">Instagram</a>
                 </div>
                 <div className="footer_social_link">
                     <img src={tiktokIcon} alt="" />
